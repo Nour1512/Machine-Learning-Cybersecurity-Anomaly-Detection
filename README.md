@@ -18,7 +18,7 @@ Together, both phases showcase the application of machine learning techniques in
 
 ##  Phase 1: Problem Description
 
-    Design a system to detect whether a network connection is safe (normal) or dangerous (anomaly) based on data collected from a military network. The data initially included only anomalies, which posed challenges due to class imbalance.
+Design a system to detect whether a network connection is safe (normal) or dangerous (anomaly) based on data collected from a military network. The data initially included only anomalies, which posed challenges due to class imbalance.
 
 ### Key Steps:
 
@@ -32,12 +32,12 @@ Together, both phases showcase the application of machine learning techniques in
 
 In this phase, the goal was to detect not just if the connection is malicious, but also to classify the type of attack into one of the following:
 
-    * BenignTraffic
-    * DDoS
-    * DoS
-    * Recon
-    * MITM
-    * Mirai
+* BenignTraffic
+* DDoS
+* DoS
+* Recon
+* MITM
+* Mirai
 
 ### Key Steps:
 
